@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hakan</h1>
 <h3 align="center">A Junior Software Engineer with a Passion for Computer Vision, AI, and Automation</h3>
 
-- 🔭 I’m currently working on [Breathment App](https://breathment.com/)
-
 - 🌱 I’m currently learning **FastAPI, Django, Test Automation**
 
 - 📫 How to reach me **hakan.ates@studenti.unipd.it**
